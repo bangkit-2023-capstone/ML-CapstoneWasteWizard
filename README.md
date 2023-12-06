@@ -1,1 +1,1 @@
-# ML-CapstoneWasteWizard-
+# ML-CapstoneWasteWizard
